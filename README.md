@@ -1,4 +1,4 @@
-# Small Business Network Lab for "Prestridge Woodworking HQ"
+# Small Business Network Lab for "Otholi Woodworks HQ"
 
 ## 1. Project Objective
 The goal of this project is to design and configure a secure and segmented network for a hypothetical small business. This lab demonstrates fundamental networking concepts including VLANs, inter-VLAN routing, DHCP services, and security using Access Control Lists (ACLs).
